@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @eversour001
-- 👀 I’m The Digital Development Company
-- 🌱 We provides Web Development, Graphic Designs, Editing and Marketing Services
-- 💞️ We're looking to Collaborate with Content Creators, Agencies and Companies 
-- 📫 How to reach me ... eversour.netlify.app
+- 👀 We're The Digital Development Company - Eversour
+- 🌱 We provides Web Development, Software Development, Branding, SEO, and Online Advertisement services.
+- 💞️ We're looking to collaborate with Executives, Developers, Content Creators, Agencies, and Companies as well.
 - 😄 Pronouns: They
-- ⚡ Fun fact: A Master Plan for Businesses
+- ⚡ Fun fact: A Master Plan for Domination!
 
 <!---
 eversour001/eversour001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
